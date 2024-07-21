@@ -24,7 +24,7 @@ This README provides instructions to set up and run an Expo React Native pre-bui
 - run the command: git clone https://github.com/ngxuemin/HTX_Cognitive_App.git
 
 ### Open Android Studios 
-- click on the hamburger icon on the top right and select "Virtual Device Managers"
+- click on the hamburger icon on the top right and select "Virtual Device Manager"
 - start your emulator / create one
 
 ### Run the App
